@@ -12,7 +12,8 @@ namespace AdoNet.Task
             //dbService.DeleteStudents();
             //dbService.GetStudents();
             //dbService.UpdateStudents();
-            dbService.SearchStudents();
+            //dbService.SearchStudents();
+            dbService.ProPagination();
         }
     }
 }
